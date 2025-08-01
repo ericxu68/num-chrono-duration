@@ -9,5 +9,5 @@ keywords = ["duration"]
 license = "MIT"
 
 [dependencies]
-chrono = "0.4.24"
+chrono = "0.4.25"
 num-traits = "0.2.14"
